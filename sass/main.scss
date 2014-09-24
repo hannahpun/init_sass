@@ -1,0 +1,13 @@
+@import "compass";
+@import "compass/reset";
+
+@import "variable";
+@import "color";
+@import "function"; 
+@import "mixin"; 
+
+@import "global"; //基本架構
+@import "form"; //input select button
+@import "partials"; //共同元件
+
+@import "page"; //不同頁
